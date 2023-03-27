@@ -3,5 +3,6 @@ public with sharing class WelcomeToPwC {
         System.debug('Welcome to PwC');
         assert.isNotNull('hello');
         assert.isNotNull('hello');
+        assert.isNotNull('hello');
     }
 }
